@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/common-lang3.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/commons-math3-3.6.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/java-lsh-0.6.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jgrapht-core-0.9.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/JInsect.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jsc.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-3d-demos-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-jai-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-samples-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/log4j-1.2-api-2.5.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/lucene-spatial-4.0.0.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/OpenJGraph.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/SentenceSplitter.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/weka.jar"/>
+	<classpathentry kind="lib" path="K:/git/na-blocker/lib/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
